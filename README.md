@@ -69,12 +69,10 @@ This project helped me build a foundation in Android security testing, network c
 
 This assessment was conducted for educational purposes in a controlled virtual lab using systems configured for testing. The techniques were examined to understand security risks and defensive practices. Testing should only be performed on devices and systems for which authorization has been granted.
 
-**Screenshots and Documentation**
-
-Selected screenshots and the project report will be added to this repository to document the lab setup, tool configuration, and observed results.
-
 **Project Documentation**
 
 The full project report includes the lab setup, tools used, configuration steps, screenshots, observations, and security recommendations.
 
 📄 View the Android Security Assessment Report (PDF)
+
+Selected screenshots and the project report will be added to this repository to document the lab setup, tool configuration, and observed results.
