@@ -20,17 +20,17 @@ This project documents a hands-on Android security lab using Kali Linux, Metaspl
 
 **Tools and Technologies**
 
-- Kali Linux — Linux environment used for security testing.
+- **Kali Linux** — Linux environment used for security testing.
 
-- Oracle VM VirtualBox — Used to run the virtual machines.
+- **Oracle VM VirtualBox** — Used to run the virtual machines.
 
-- Android-x86 9.0 — Android test environment.
+- **Android-x86 9.0** — Android test environment.
 
-- Metasploit Framework — Used to examine payload and handler behavior in the lab.
+- **Metasploit Framework** — Used to examine payload and handler behavior in the lab.
 
-- Apache2 — Used to host the Android application file.
+- **Apache2** — Used to host the Android application file.
 
-- Meterpreter — Used to review the established test session and available commands.
+- **Meterpreter** — Used to review the established test session and available commands.
 
 **Lab Summary**
 
