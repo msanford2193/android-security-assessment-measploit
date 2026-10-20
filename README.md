@@ -72,3 +72,9 @@ This assessment was conducted for educational purposes in a controlled virtual l
 **Screenshots and Documentation**
 
 Selected screenshots and the project report will be added to this repository to document the lab setup, tool configuration, and observed results.
+
+**Project Documentation**
+
+The full project report includes the lab setup, tools used, configuration steps, screenshots, observations, and security recommendations.
+
+📄 View the Android Security Assessment Report (PDF)
